@@ -1,5 +1,6 @@
-# SmartBrain - v1
-Final project for ZTM course
+Face Recognition App
+
+You can enter the url of an image and this app will detect faces in the image.
 
 1. Clone this repo
 2. Run `npm install`
@@ -8,4 +9,4 @@ Final project for ZTM course
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
-*visist https://zerotomastery.io/ for more*
+
